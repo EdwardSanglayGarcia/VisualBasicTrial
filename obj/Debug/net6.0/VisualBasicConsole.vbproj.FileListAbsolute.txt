@@ -1,0 +1,15 @@
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\bin\Debug\net6.0\VisualBasicConsole.exe
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\bin\Debug\net6.0\VisualBasicConsole.deps.json
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\bin\Debug\net6.0\VisualBasicConsole.runtimeconfig.json
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\bin\Debug\net6.0\VisualBasicConsole.dll
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\bin\Debug\net6.0\VisualBasicConsole.pdb
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\obj\Debug\net6.0\VisualBasicConsole.vbproj.AssemblyReference.cache
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\obj\Debug\net6.0\VisualBasicConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\obj\Debug\net6.0\VisualBasicConsole.AssemblyInfoInputs.cache
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\obj\Debug\net6.0\VisualBasicConsole.AssemblyInfo.vb
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\obj\Debug\net6.0\VisualBasicConsole.vbproj.CoreCompileInputs.cache
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\obj\Debug\net6.0\VisualBasicConsole.dll
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\obj\Debug\net6.0\refint\VisualBasicConsole.dll
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\obj\Debug\net6.0\VisualBasicConsole.pdb
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\obj\Debug\net6.0\VisualBasicConsole.genruntimeconfig.cache
+C:\Users\Edward\Documents\Repositories\VisualBasicFinal\VisualBasicConsole\obj\Debug\net6.0\ref\VisualBasicConsole.dll
